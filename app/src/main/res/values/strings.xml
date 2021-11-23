@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Quranku</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="quran_menu">Al-Quran</string>
+    <string name="bookmark_menu">Bookmark</string>
+    <string-array name="spinner_list_quran_home_fragment">
+        <item>Surah</item>
+        <item>Juz</item>
+    </string-array>
+    <string name="minimize_read_quran_menu">Tutup</string>
+    <string name="open_read_quran_menu">Buka</string>
+    <string name="subtitle_read_quran_toolbar">Lanjutkan membaca</string>
+</resources>
